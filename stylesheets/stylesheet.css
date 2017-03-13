@@ -27,4 +27,5 @@ li {
 
 a, a:visited, a:hover, a:active {
   color: midnightblue;
+    text-decoration: none;
 }
