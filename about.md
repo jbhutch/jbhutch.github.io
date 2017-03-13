@@ -1,2 +1,2 @@
-### About.
+### About
 This about me
