@@ -23,7 +23,7 @@ nav > ul {
   display: inline-flex;
 }
 li {
-  margin-right: 2px;
+  margin-right: 40px;
 }
 
 a, a:visited, a:hover, a:active {
