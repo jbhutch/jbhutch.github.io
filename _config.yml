@@ -1,0 +1,8 @@
+title: Test Page
+description: Example page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
