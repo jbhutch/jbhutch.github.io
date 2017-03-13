@@ -17,3 +17,10 @@ h1 {
 .center {
   text-align: center;
 }
+
+nav > ul {
+  display: inline-flex;
+}
+li {
+  margin-right: 2px;
+}
