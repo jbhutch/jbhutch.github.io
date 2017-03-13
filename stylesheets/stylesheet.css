@@ -24,3 +24,7 @@ nav > ul {
 li {
   margin-right: 2px;
 }
+
+a, a:visited, a:hover, a:active {
+  color: midnightblue;
+}
