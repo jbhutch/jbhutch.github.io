@@ -17,7 +17,7 @@ function open_in_new_tab(url)
   window.focus();
 }
 function open_video(id){
-	var embed = '<div class="embed"><iframe width="560" height="315" src="http://www.youtube.com/embed/'+id+'" frameborder="0" allowfullscreen></iframe></div>';
+	var embed = '<div class="embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/'+id+'" frameborder="0" allowfullscreen></iframe></div>';
 	$(".embed").replaceWith(embed);
 }
 function open_image(object){
