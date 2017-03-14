@@ -30,11 +30,6 @@ var links = [
 	"url": "https://www.youtube.com/watch?v=wMywHFojUtY",
 	"youtubeid": "wMywHFojUtY",
 	"type":"video"},
-        {
-	"name":"People are awesome",
-	"url": "https://www.youtube.com/watch?v=yKWoPlL2B8I",
-	"youtubeid": "yKWoPlL2B8I",
-	"type":"video"},
 	{
 	"name":"East/West College Bowl",
 	"url": "https://www.youtube.com/watch?v=gODZzSOelss",
