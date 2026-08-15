@@ -1,2 +1,3 @@
 # jbhutch.github.io
-This contains the source code for website http://jbhutch.githutb.io
+
+Source for https://jbhutch.github.io — a static landing page. No build step; GitHub Pages serves these files as-is (`.nojekyll`).
